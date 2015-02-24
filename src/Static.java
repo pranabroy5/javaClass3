@@ -7,6 +7,9 @@ public class Static {
 	{
 	System.out.println("method1");	
 	}
+	  //@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+	  
+	  
 	  //This line does not mean anything
 	  //This line does not mean anything
 	  //This line does not mean anything
