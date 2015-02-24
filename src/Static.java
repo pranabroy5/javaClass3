@@ -7,6 +7,9 @@ public class Static {
 	{
 	System.out.println("method1");	
 	}
+	  
+	  
+	  
 	  //This line does not mean anything
 	  //This line does not mean anything
 	  //This line does not mean anything
@@ -20,7 +23,7 @@ public class Static {
 	
 	public static void main(String[] args) {
 		
-		//1 st commit
+		
 				
 method2();
 method1();
